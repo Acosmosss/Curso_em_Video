@@ -1,7 +1,8 @@
 # CursoemVideo
- Repositório para guardar exercicios do curso, do canal Curso em Vídeo
- Mundo 1
+ Repositório para guardar exercicios do curso, do canal Curso em Vídeo 
 
- Mundo 2
+# Mundo 1
 
- Mundo 3
+# Mundo 2
+
+# Mundo 3
