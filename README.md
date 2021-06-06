@@ -1,5 +1,5 @@
 # CursoemVideo
- Repositório para guardar exercicios do curso, do canal Curso em Vídeo 
+ Repositório para guardar exercicios do curso de **Python3**, do canal Curso em Vídeo 
 
 # [Mundo 1](https://www.cursoemvideo.com/course/python-3-mundo-1/)
 ## Assuntos
