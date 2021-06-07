@@ -16,5 +16,18 @@
 - **Aula Bonus:** Cores no terminal
    - \033m
 # [Mundo 2](https://www.cursoemvideo.com/course/python-3-mundo-2/)
+## Assuntos 
+- Condições aninhadas
+   - Elif
+- Estruturas de repetição
+  - Laços For
+  - Laços While 
+  - Break
 
 # [Mundo 3](https://www.cursoemvideo.com/course/python-3-mundo-3/)
+## Assuntos 
+- Estrutura de Dados
+   - Tuplas ()
+   - Listas []
+   - Dicionarios {}
+   - ...
