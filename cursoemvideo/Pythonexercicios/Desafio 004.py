@@ -1,0 +1,7 @@
+x = input('Digite algo: ')
+print('Está Vazio: {} '.format(x.isspace()))
+print('É numeral: {} ' .format(x.isnumeric()))
+print('É alfa: {} ' .format(x.isalpha()))
+print('É alfanumerico: {} ' .format(x.isalnum()))
+print('É minúsculo: {} ' .format(x.islower()))
+print('É maiusculo: {} ' .format(x.isupper()))
