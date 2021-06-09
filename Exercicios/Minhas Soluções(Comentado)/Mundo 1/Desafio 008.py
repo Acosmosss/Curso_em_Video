@@ -2,6 +2,7 @@ import time
 
 print('Programa de conversão de Metros')
 m = float(input('insira a metragem: '))
+# outro sleep desnecessario :P 
 time.sleep(1)
 mm = m * 1000
 cm = m * 100
