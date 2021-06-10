@@ -8,6 +8,6 @@ print('Nome Máiusculo:', upper + '\nNome Minúsculo:' + lower)
 nospa = nome.replace(' ', '')
 print('Esse nome tem', len(nospa), 'Letras')
 # contar primeira palavra
-# tambem pode ser usado nome.find(' '), qua vai achar o primeiro espaço da palavra.
+# tambem pode ser usado nome.find(' '), que vai achar o primeiro espaço da palavra.
 cont = nome.split()
-print('O primeiro nome', cont[0], 'tem', len(cont[0]), 'Letras')
+print('O primeiro nome', cont[0], 'tem', len(cont[0]), 'Letras') # não sei pq n usei f string aqui ???
