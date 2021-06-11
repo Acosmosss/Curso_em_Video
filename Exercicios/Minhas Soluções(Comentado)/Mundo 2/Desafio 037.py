@@ -1,5 +1,8 @@
 n = int(input('Digite um número inteiro: '))
-print('Para qual base numerica você quer converter:\n\033[4m[ 1 ] Para Binário\n[ 2 ] Para octal\n[ 3 ] Para Hexadecimal\033[m')
+print('''Para qual base numerica você quer converter:
+\033[4m[ 1 ] Para Binário
+[ 2 ] Para octal
+[ 3 ] Para Hexadecimal\033[m''')
 con = int(input('Qual sua opção: '))
 bina = format(n, 'b')  # convertendo para binario
 x = format(n, 'X')     # convertendo para hexadecimal

@@ -1,3 +1,4 @@
+# Usei dicionario, sem nem saber oq era :I
 cores = {'red': '\033[31m',
          'clean': '\033[m',
          'green': '\033[32m'}
